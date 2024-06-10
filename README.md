@@ -7,9 +7,6 @@
   <h2>2D платформер, созданный с использованием концепций компьютерной графики и визуализации на Python.</h2>
 </div>
 
-<div align="center">
-  [![](https://img.shields.io/badge/Made_with-python-yellow?style=for-the-badge&logo=python)](https://www.python.org/ "Python")
-</div>
 
 <div>
 
